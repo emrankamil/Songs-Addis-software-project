@@ -1,0 +1,11 @@
+{
+  "name": "sont-app_mern",
+  "version": "1.0.0",
+  "description": "mern stack project to store song informations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emran",
+  "license": "ISC"
+}
